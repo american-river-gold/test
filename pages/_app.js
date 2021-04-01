@@ -5,8 +5,8 @@ export default function App({ Component, pageProps }) {
     <div>
       <div
         style={{
-          color: "white",
-          background: "black",
+          color: "black",
+          background: "lightgray",
           marginBottom: "1em"
         }}
       >
